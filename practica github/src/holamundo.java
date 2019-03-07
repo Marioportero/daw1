@@ -18,7 +18,7 @@ public class holamundo {
         int hola=3;
         int mundo=4;
         System.out.println("hola= "+hola);
-        
+        System.out.println("mundo= "+mundo);
     }
     
 }
